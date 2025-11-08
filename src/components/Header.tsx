@@ -179,7 +179,7 @@ export default function Header() {
           <div className="flex flex-col p-4 space-y-2">
             {[
               { path: "/", label: "Home", icon: "🏠" },
-              { path: "/menu", label: "Menu", icon: "📋" },
+              { path: "/products", label: "Menu", icon: "📋" },
               { path: "/about", label: "About", icon: "👨‍🍳" },
               { path: "/contact", label: "Contact", icon: "📞" },
               { path: "/cart", label: "Cart", icon: "🛒" }
