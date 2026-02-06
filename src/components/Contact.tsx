@@ -7,16 +7,16 @@ export default function Contact() {
       <div className="card p-6">
         <h2 className="text-xl font-semibold mb-4">Contact Us</h2>
         <div className="flex items-center gap-3 text-slate-700">
-          <User size={18} /> Kuldeep Meena
+          <User size={18} /> Kailash Chand Meena
         </div>
         <div className="flex items-center gap-3 text-slate-700 mt-2">
-          <Mail size={18} /> Rockstar35665@gmail.com
+          <Mail size={18} /> kailashmeena941414@gmail.com
         </div>
         <div className="flex items-center gap-3 text-slate-700 mt-2">
-          <Phone size={18} /> +91 7851925971
+          <Phone size={18} /> +91 8619949314
         </div>
         <div className="flex items-center gap-3 text-slate-700 mt-2">
-          <MapPin size={18} /> gate no 1, Indore, Madhya Pradesh, 452020
+          <MapPin size={18} /> A7 Gokulpura Lalsot, Dausa, Rajasthan, 303503, India
         </div>
       </div>
 
